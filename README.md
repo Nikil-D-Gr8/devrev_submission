@@ -16,16 +16,6 @@ sudo dpkg -i devrev_0.4.0-linux_arm64.deb
 wget https://raw.githubusercontent.com/devrev/cli/main/install_completions.sh && sh install_completions.sh /usr/local/bin/devrev
 ```
 
-### MacOS
-```bash
-brew install devrev/tools/devrev
-```
-
-### Windows
-```bash
-winget install DevRev.CLI
-```
-
 ## Prerequisites
 
 Before starting:
